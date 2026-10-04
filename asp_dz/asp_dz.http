@@ -1,0 +1,6 @@
+@asp_dz_HostAddress = http://localhost:5166
+
+GET {{asp_dz_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
